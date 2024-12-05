@@ -147,12 +147,12 @@ Welcome to the **KeMU Account Registration Portal**. This portal is designed for
 
 ## Support
 
-For assistance, contact the **KeMU IT Department** via email at `support@kemu.ac.ke` or call the IT support line.
+For assistance, contact the **KeMU IT Department** via email at ` info@kemu.ac.ke` or call the IT support line.
 
 ---
 
 ## Author
 
-This project was developed by **[Your Name]**, an ICT Intern at **Kenya Methodist University**, with the task of creating a simple login system for student and employee registration using **HTML**, **CSS**, **JavaScript**, and **PHP**.
+This project was developed by **David Mulasi Kafumba**, an ICT Intern at **Kenya Methodist University**, with the task of creating a simple login system for student and employee registration using **HTML**, **CSS**, **JavaScript**, and **PHP**.
 
 ---
