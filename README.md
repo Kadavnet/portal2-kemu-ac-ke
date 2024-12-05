@@ -76,7 +76,7 @@ Welcome to the **KeMU Account Registration Portal**. This portal is designed for
      ```
 
 4. **Run the Portal**:
-   - Open your web browser and navigate to the project directory (e.g., `http://localhost/kemuhub/index.html`).
+   - Open your web browser and navigate to the project directory (e.g., `http://localhost/portal2-kemu-ac-ke/index.php`).
 
 ---
 
