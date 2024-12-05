@@ -25,7 +25,7 @@ Welcome to the **KeMU Account Registration Portal**. This portal is designed for
 1. **`index.php`**: 
    - Contains the HTML structure for the portal, including the registration form and layout.
 2. **`styles.css`**:
-   - Defines the appearance of the portal, including colors, fonts, and layout.
+   - Defines the portal's appearance, including colors, fonts, and layout.
 3. **`script.js`**:
    - Handles form validation, password toggle functionality, and submission using AJAX.
 
@@ -122,7 +122,7 @@ Welcome to the **KeMU Account Registration Portal**. This portal is designed for
    - Ensure the MySQL server is running.
 
 2. **Form Not Submitting**:
-   - Check browser console for JavaScript errors.
+   - Check the browser console for JavaScript errors.
    - Ensure `script.js` is properly linked and loaded.
 
 3. **Unexpected Errors**:
@@ -153,6 +153,6 @@ For assistance, contact the **KeMU IT Department** via email at ` info@kemu.ac.k
 
 ## Author
 
-This project was developed by **David Mulasi Kafumba**, an ICT Intern at **Kenya Methodist University**, with the task of creating a simple login system for student and employee registration using **HTML**, **CSS**, **JavaScript**, and **PHP**.
+This project was developed by **David Mulasi Kafumba**, an ICT Intern at **Kenya Methodist University**, to create a simple login system for student and employee registration using **HTML**, **CSS**, **JavaScript**, and **PHP**.
 
 ---
