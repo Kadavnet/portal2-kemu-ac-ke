@@ -145,9 +145,3 @@ Welcome to the **KeMU Account Registration Portal**. This portal is designed for
 
 ---
 
-## Support
-
-For assistance, contact the **KeMU IT Department** via email at ` info@kemu.ac.ke` or call the IT support line.
-
----
----
